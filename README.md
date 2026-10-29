@@ -1,2 +1,5 @@
-# physics-lab
-Physics Lab, a physics simulator: mechanics sandbox, projectiles, electric fields, and physics games
+# Physics Lab
+
+The built website for Physics Lab, a physics simulator: https://tencase47594955.github.io/physics-lab/
+
+This repository only holds the published files; they are replaced on every `npm run deploy`.
